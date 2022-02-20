@@ -1,0 +1,1 @@
+("8.2" ta6nt ("f901c301592807d08499fb0b48e894e2ddbec65d" . "93ef09028f97489f74a7993eda9476a3c4fca309") (collects #"a-d" #"tree" #"avl-tree.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"r6rs" #"lang" #"reader.rkt") (collects #"r6rs" #"main.rkt") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"rnrs" #"base-6.rkt") (collects #"srfi" #"%3a9.rkt"))

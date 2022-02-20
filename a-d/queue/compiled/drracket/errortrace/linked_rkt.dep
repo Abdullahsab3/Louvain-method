@@ -1,0 +1,1 @@
+("8.2" ta6nt ("2d6e26bcfdd653535578c4ea6bc6489cf9475421" . "b433546197584b6e1fee2c63a6b3149947630430") (collects #"errortrace" #"errortrace-key.rkt") (collects #"r6rs" #"lang" #"reader.rkt") (collects #"r6rs" #"main.rkt") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"rnrs" #"base-6.rkt") (collects #"rnrs" #"mutable-pairs-6.rkt") (collects #"srfi" #"%3a9.rkt"))
